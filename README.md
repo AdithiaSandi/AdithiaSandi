@@ -18,7 +18,7 @@ I am an IT graduate majoring in Information Systems. I have basic knowledge and 
 
 <div>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnext-logo-png-build-a-universal-javascript-app-with-next-js-280.png&f=1&nofb=1&ipt=912a4244c59497ca21016d97dd3475e101b9c2da02af941bc0e4be2344cb4813&ipo=images"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"></code>
 <code><img height="40" width="40" src= "https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png"></code>
