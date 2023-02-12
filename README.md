@@ -1,6 +1,6 @@
 # Hello :wave:, I am Sandi 😃
 
-### Frontend Web Developer :computer:
+### Aspiring Web Developer :computer:
 
 # About me
 
